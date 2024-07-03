@@ -15,8 +15,10 @@ When building the structure of this dictionary, my primary concerns were:
 2. How can I make make it possible for them to go on a rabbit-chase of adjacent words?
 
 To elaborate on the first concern, let us say we came across the sentence "She waved at her". Unfortunately, we do not know what 'waved' means! So, we drop into IAEMD, and search for 'waved'. 
-What if the entry that you got was this (tldr; the bold text is our entry):
+What if the result that you got was this (tldr; the bold text is our relevant entry):
 > ### **Wave**
+> the rise and fall of fluids;പഗിനി കതിലു കാരദിപി.
+>
 
 The first consideration is  **What is the skeletal language of the content?**
 There are two possibilities: English("en"), Malayalam("ml"). The deciding factor is the language the user is approaching the dictionary from.
